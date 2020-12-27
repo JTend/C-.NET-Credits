@@ -1,0 +1,6 @@
+# Debuggin and Production files
+/bin
+/obj
+
+# Tests
+/tests
